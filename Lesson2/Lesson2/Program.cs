@@ -35,7 +35,7 @@ namespace Lesson2
                 Console.WriteLine($"Введённое число {UserAnswer} не является чётным");
             #endregion
             */
-            #region
+            #region 4.
             Console.WriteLine("{0,25}", "ООО Форсунка");
             Console.WriteLine("{0,35}", "Адрес 634059б Томская область,");
             Console.WriteLine("{0,36}", "город Томск, ул. Ивановского, 14");
@@ -43,6 +43,9 @@ namespace Lesson2
             Console.WriteLine("{0,29}", $"{DateTime.Now}");
             Console.WriteLine("{0,30}", "Кассир: Иванов Николай");
             Console.WriteLine(new string('#', 37));
+            Console.WriteLine("Наименование\tКоличество\tРУБ/ШТ\tСумма");
+            Console.WriteLine("Молоко\t\t1\t\t45\t45");
+            Console.WriteLine("Сметана\t\t1\t\t75\t75");
             #endregion
         }
     }

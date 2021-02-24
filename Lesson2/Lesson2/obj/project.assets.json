@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\kozlovvo\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kozlovvo\\Documents\\Education\\geekbrains\\Fakultet\\Introduction-to-C\\Lesson2\\Lesson2\\Lesson2.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\education\\GeekBrains\\Introduction to C\\Lesson2\\Lesson2\\Lesson2.csproj",
       "projectName": "Lesson2",
-      "projectPath": "C:\\Users\\kozlovvo\\Documents\\Education\\geekbrains\\Fakultet\\Introduction-to-C\\Lesson2\\Lesson2\\Lesson2.csproj",
-      "packagesPath": "C:\\Users\\kozlovvo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kozlovvo\\Documents\\Education\\geekbrains\\Fakultet\\Introduction-to-C\\Lesson2\\Lesson2\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\education\\GeekBrains\\Introduction to C\\Lesson2\\Lesson2\\Lesson2.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\education\\GeekBrains\\Introduction to C\\Lesson2\\Lesson2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kozlovvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
