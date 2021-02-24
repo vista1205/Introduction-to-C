@@ -11,3 +11,16 @@ C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson2\Lesson2\obj
 C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.dll
 C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.pdb
 C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.genruntimeconfig.cache
+C:\Users\kozlovvo\Documents\Education\geekbrains\Fakultet\Introduction-to-C\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.exe
+C:\Users\kozlovvo\Documents\Education\geekbrains\Fakultet\Introduction-to-C\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.deps.json
+C:\Users\kozlovvo\Documents\Education\geekbrains\Fakultet\Introduction-to-C\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.runtimeconfig.json
+C:\Users\kozlovvo\Documents\Education\geekbrains\Fakultet\Introduction-to-C\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.runtimeconfig.dev.json
+C:\Users\kozlovvo\Documents\Education\geekbrains\Fakultet\Introduction-to-C\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.dll
+C:\Users\kozlovvo\Documents\Education\geekbrains\Fakultet\Introduction-to-C\Lesson2\Lesson2\bin\Debug\netcoreapp3.1\Lesson2.pdb
+C:\Users\kozlovvo\Documents\Education\geekbrains\Fakultet\Introduction-to-C\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.csprojAssemblyReference.cache
+C:\Users\kozlovvo\Documents\Education\geekbrains\Fakultet\Introduction-to-C\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.AssemblyInfoInputs.cache
+C:\Users\kozlovvo\Documents\Education\geekbrains\Fakultet\Introduction-to-C\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.AssemblyInfo.cs
+C:\Users\kozlovvo\Documents\Education\geekbrains\Fakultet\Introduction-to-C\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\kozlovvo\Documents\Education\geekbrains\Fakultet\Introduction-to-C\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.dll
+C:\Users\kozlovvo\Documents\Education\geekbrains\Fakultet\Introduction-to-C\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.pdb
+C:\Users\kozlovvo\Documents\Education\geekbrains\Fakultet\Introduction-to-C\Lesson2\Lesson2\obj\Debug\netcoreapp3.1\Lesson2.genruntimeconfig.cache
