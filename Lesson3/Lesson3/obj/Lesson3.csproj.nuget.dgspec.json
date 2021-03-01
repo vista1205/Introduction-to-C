@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kozlovvo\\Documents\\Education\\geekbrains\\Fakultet\\Introduction-to-C\\Lesson3\\Lesson3\\Lesson3.csproj": {}
+    "C:\\Users\\Дом\\Desktop\\Виталька\\geekbrains\\Introduction-to-C\\Lesson3\\Lesson3\\Lesson3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kozlovvo\\Documents\\Education\\geekbrains\\Fakultet\\Introduction-to-C\\Lesson3\\Lesson3\\Lesson3.csproj": {
+    "C:\\Users\\Дом\\Desktop\\Виталька\\geekbrains\\Introduction-to-C\\Lesson3\\Lesson3\\Lesson3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kozlovvo\\Documents\\Education\\geekbrains\\Fakultet\\Introduction-to-C\\Lesson3\\Lesson3\\Lesson3.csproj",
+        "projectUniqueName": "C:\\Users\\Дом\\Desktop\\Виталька\\geekbrains\\Introduction-to-C\\Lesson3\\Lesson3\\Lesson3.csproj",
         "projectName": "Lesson3",
-        "projectPath": "C:\\Users\\kozlovvo\\Documents\\Education\\geekbrains\\Fakultet\\Introduction-to-C\\Lesson3\\Lesson3\\Lesson3.csproj",
-        "packagesPath": "C:\\Users\\kozlovvo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kozlovvo\\Documents\\Education\\geekbrains\\Fakultet\\Introduction-to-C\\Lesson3\\Lesson3\\obj\\",
+        "projectPath": "C:\\Users\\Дом\\Desktop\\Виталька\\geekbrains\\Introduction-to-C\\Lesson3\\Lesson3\\Lesson3.csproj",
+        "packagesPath": "C:\\Users\\Дом\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Дом\\Desktop\\Виталька\\geekbrains\\Introduction-to-C\\Lesson3\\Lesson3\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kozlovvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Дом\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

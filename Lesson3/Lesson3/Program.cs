@@ -45,7 +45,36 @@ namespace Lesson3
             #endregion
 
             #region 2. Написать программу — телефонный справочник — создать двумерный массив 5*2, хранящий список телефонных контактов: первый элемент хранит имя контакта, второй — номер телефона/e-mail.
-
+            Console.WriteLine("Необходимо ввести Имя и телефон/e-mail");
+            string[,] Contacts = new string[5, 2];
+            for (int i=0; i < Contacts.GetLength(dimension: 0); i++)
+            {
+                for(int j = 0; j < Contacts.GetLength(dimension: 1); j++)
+                {
+                    if (j == 0)
+                    {
+                        Console.Write("Введите имя контакта: ");
+                        Contacts[i, j] = Console.ReadLine();
+                    }
+                    else
+                    {
+                        Console.Write("Введите телефон/e-mail контакта: ");
+                        Contacts[i, j] = Console.ReadLine();
+                    }
+                }
+            }
+            Console.WriteLine("\nИмя\tТелефон/e-mail");
+            for(int i = 0; i < Contacts.GetLength(dimension: 0); i++)
+            {
+                for (int j = 0; j < Contacts.GetLength(dimension: 1); j++)
+                {
+                    if (j == 0)
+                        Console.Write($"{Contacts[i, j]}\t");
+                    else
+                        Console.WriteLine($"{Contacts[i, j]}");
+                }
+            }
+            Console.ReadKey();
             #endregion
         }
     }
