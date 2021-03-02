@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Lesson3
 {
@@ -41,7 +42,6 @@ namespace Lesson3
                     }                        
                 }
             }
-            Console.ReadKey();
             #endregion
 
             #region 2. Написать программу — телефонный справочник — создать двумерный массив 5*2, хранящий список телефонных контактов: первый элемент хранит имя контакта, второй — номер телефона/e-mail.
@@ -74,7 +74,14 @@ namespace Lesson3
                         Console.WriteLine($"{Contacts[i, j]}");
                 }
             }
-            Console.ReadKey();
+            #endregion
+
+            #region 3. Написать программу, выводящую введенную пользователем строку в обратном порядке (olleH вместо Hello)
+            Console.WriteLine("Введите любую строку для реверсирования.");
+            Console.Write("Ввод: ");
+            string input = Console.ReadLine();
+            string output = new string(input.ToCharArray().Reverse().ToArray());
+            Console.Write($"Строка после реверсирования: {output}");
             #endregion
         }
     }

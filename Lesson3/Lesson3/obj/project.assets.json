@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Дом\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Дом\\Desktop\\Виталька\\geekbrains\\Introduction-to-C\\Lesson3\\Lesson3\\Lesson3.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\education\\GeekBrains\\Introduction to C\\Lesson3\\Lesson3\\Lesson3.csproj",
       "projectName": "Lesson3",
-      "projectPath": "C:\\Users\\Дом\\Desktop\\Виталька\\geekbrains\\Introduction-to-C\\Lesson3\\Lesson3\\Lesson3.csproj",
-      "packagesPath": "C:\\Users\\Дом\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Дом\\Desktop\\Виталька\\geekbrains\\Introduction-to-C\\Lesson3\\Lesson3\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\education\\GeekBrains\\Introduction to C\\Lesson3\\Lesson3\\Lesson3.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\education\\GeekBrains\\Introduction to C\\Lesson3\\Lesson3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Дом\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

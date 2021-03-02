@@ -24,3 +24,16 @@ C:\Users\Дом\Desktop\Виталька\geekbrains\Introduction-to-C\Lesson3\Le
 C:\Users\Дом\Desktop\Виталька\geekbrains\Introduction-to-C\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.dll
 C:\Users\Дом\Desktop\Виталька\geekbrains\Introduction-to-C\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.pdb
 C:\Users\Дом\Desktop\Виталька\geekbrains\Introduction-to-C\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.genruntimeconfig.cache
+C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.exe
+C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.deps.json
+C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.runtimeconfig.json
+C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.runtimeconfig.dev.json
+C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.dll
+C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson3\Lesson3\bin\Debug\netcoreapp3.1\Lesson3.pdb
+C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.AssemblyInfo.cs
+C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.dll
+C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.pdb
+C:\Users\User\Desktop\education\GeekBrains\Introduction to C\Lesson3\Lesson3\obj\Debug\netcoreapp3.1\Lesson3.genruntimeconfig.cache
