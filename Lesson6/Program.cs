@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Threading;
 
 namespace Lesson6
 {
     class Program
     {
         public static int a;
-        public static string b;
+        public static string b="";
         public static bool flag1 = true;
         static void Main(string[] args)
         {            
@@ -39,18 +40,32 @@ namespace Lesson6
                         {
                             flag1 = false;
                             b = answer;
-                            Process.GetProcessesByName(b).kill();
+                            foreach(Process proc in Process.GetProcesses())
+                            {
+                                if (proc.ProcessName == b)
+                                    a = proc.Id;
+                            }
+                            Process.GetProcessById(a).Kill();
+                            Thread.Sleep(2000);
+                            
                         }
                     }
+                    else
+                    {
+                        a = Convert.ToInt32(answer);
+                        Process.GetProcessById(a).Kill();
+                        Thread.Sleep(2000);
+                    }
                     
-                    a = Convert.ToInt32(Console.ReadLine());
-                    Process.GetProcessById(a).Kill();
                 }                
                 
             }
             catch(Exception e)
             {
-                Console.WriteLine($"\n{Process.GetProcessById(a)}:\t{e.Message}\n");
+                if (flag1)
+                    Console.WriteLine($"\n{Process.GetProcessById(a)}:\t{e.Message}\n");
+                else
+                    Console.WriteLine($"\n{Process.GetProcessesByName(b)}:\t{e.Message}\n");
             }
             finally
             {
