@@ -1,0 +1,7 @@
+C:\Users\Family\Desktop\Учёба\GeekBrains\C# Fakultet\Introduction-to-C\Lesson7\bin\Debug\Lesson7.exe.config
+C:\Users\Family\Desktop\Учёба\GeekBrains\C# Fakultet\Introduction-to-C\Lesson7\bin\Debug\Lesson7.exe
+C:\Users\Family\Desktop\Учёба\GeekBrains\C# Fakultet\Introduction-to-C\Lesson7\bin\Debug\Lesson7.pdb
+C:\Users\Family\Desktop\Учёба\GeekBrains\C# Fakultet\Introduction-to-C\Lesson7\obj\Debug\Lesson7.csprojAssemblyReference.cache
+C:\Users\Family\Desktop\Учёба\GeekBrains\C# Fakultet\Introduction-to-C\Lesson7\obj\Debug\Lesson7.csproj.CoreCompileInputs.cache
+C:\Users\Family\Desktop\Учёба\GeekBrains\C# Fakultet\Introduction-to-C\Lesson7\obj\Debug\Lesson7.exe
+C:\Users\Family\Desktop\Учёба\GeekBrains\C# Fakultet\Introduction-to-C\Lesson7\obj\Debug\Lesson7.pdb
