@@ -37,7 +37,7 @@ namespace Lesson8.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Hello Settings")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Привет! Это сообщение из Параметров!")]
         public string Greeting {
             get {
                 return ((string)(this["Greeting"]));
